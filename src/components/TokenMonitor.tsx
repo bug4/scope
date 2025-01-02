@@ -7,7 +7,7 @@ import {
   FaCheck, 
   FaRobot, 
   FaShieldAlt,
-  FaCrosshairs 
+  FaBolt 
 } from 'react-icons/fa';
 
 interface TokenMetadata {
@@ -214,7 +214,7 @@ const TokenMonitor: React.FC = () => {
         {/* Header */}
         <div className="flex items-center justify-between mb-8">
           <div className="flex items-center gap-3">
-            <FaCrosshairs size={24} className="text-black" />
+            <FaBolt size={24} className="text-black" />
             <h1 className="text-3xl font-bold text-black">Bolt Token Monitor</h1>
           </div>
           <div className="flex items-center gap-4">
