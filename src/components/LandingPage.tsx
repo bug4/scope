@@ -7,7 +7,7 @@ const LandingPage: React.FC = () => {
    <div className="min-h-screen bg-white">
      <div className="fixed bottom-8 left-1/2 transform -translate-x-1/2 flex gap-4">
        <a 
-         href="https://pump.fun/" 
+         href="https://pump.fun/coin/DdPZJgQgKxAjSB7n5BEuRizZBHLfig72Q7EkHwLkpump" 
          target="_blank" 
          rel="noopener noreferrer"
          className="px-6 py-2 bg-black text-white rounded-full hover:bg-gray-800 transition-colors flex items-center gap-2"
