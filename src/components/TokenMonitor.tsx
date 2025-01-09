@@ -213,7 +213,7 @@ const TokenMonitor: React.FC = () => {
         {/* Header */}
         <div className="flex items-center justify-between mb-8">
           <div className="flex items-center gap-3">
-            <h1 className="text-3xl font-bold text-black">SPECO Token Monitor</h1>
+            <h1 className="text-3xl font-bold text-black">GENO Token Monitor</h1>
           </div>
           <div className="flex items-center gap-4">
             <div className={`flex items-center gap-2 ${isConnected ? 'text-green-600' : 'text-red-600'}`}>
@@ -250,7 +250,7 @@ const TokenMonitor: React.FC = () => {
             <div className="bg-white rounded-lg border border-gray-200 p-6 sticky top-6">
               <div className="text-center mb-6">
                 <h2 className="text-xl font-bold text-black mb-2">Upcoming Features</h2>
-                <p className="text-gray-600 text-sm">Powerful tools coming to SPECO</p>
+                <p className="text-gray-600 text-sm">Powerful tools coming to GENO</p>
               </div>
               
               <div className="space-y-4">
