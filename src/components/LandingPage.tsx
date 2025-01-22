@@ -22,7 +22,7 @@ const LandingPage: React.FC = () => {
           Buy $Volt
         </a>
         <a 
-          href="https://x.com/VoltTechAI" 
+          href="https://x.com/VoltVisionSol" 
           target="_blank" 
           rel="noopener noreferrer" 
           className="p-3 bg-purple-500 bg-opacity-20 text-purple-400 rounded-lg hover:bg-opacity-30 transition-all duration-300 border border-purple-500 border-opacity-20"
