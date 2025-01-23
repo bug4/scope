@@ -14,15 +14,15 @@ const LandingPage: React.FC = () => {
       {/* Social buttons */}
       <div className="fixed bottom-8 left-1/2 transform -translate-x-1/2 flex gap-4 z-10">
         <a 
-          href="https://pump.fun/coin/82DjSUeQGuQFepcD38t5vvfVpuu2Sj6pisdDBpoRpump" 
+          href="https://pump.fun/" 
           target="_blank" 
           rel="noopener noreferrer"
           className="px-6 py-2 bg-purple-500 bg-opacity-20 text-purple-400 rounded-lg hover:bg-opacity-30 transition-all duration-300 flex items-center gap-2 border border-purple-500 border-opacity-20"
         >
-          Buy $Volt
+          Buy $HALO
         </a>
         <a 
-          href="https://x.com/VoltVisionSol" 
+          href="https://x.com/HaloToolsAI" 
           target="_blank" 
           rel="noopener noreferrer" 
           className="p-3 bg-purple-500 bg-opacity-20 text-purple-400 rounded-lg hover:bg-opacity-30 transition-all duration-300 border border-purple-500 border-opacity-20"
@@ -36,7 +36,7 @@ const LandingPage: React.FC = () => {
         <div className="max-w-4xl w-full text-center mb-16">
           <div className="flex items-center justify-center gap-3 mb-6">
             <h1 className="text-6xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-purple-400 to-blue-400">
-              Volt Vision
+              Halo Tools
             </h1>
           </div>
           <h2 className="text-2xl text-gray-400 mb-8">Analysis Tools</h2>

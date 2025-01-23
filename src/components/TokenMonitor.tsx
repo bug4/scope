@@ -222,7 +222,7 @@ const TokenMonitor: React.FC = () => {
             </div>
             <div>
               <h1 className="text-3xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-purple-400 to-blue-400">
-                Volt Token Monitor
+                HALO Token Monitor
               </h1>
               <p className="text-gray-400 text-sm">Real-time token tracking on Solana</p>
             </div>
@@ -275,7 +275,7 @@ const TokenMonitor: React.FC = () => {
                 <h2 className="text-xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-purple-400 to-blue-400 mb-2">
                   Upcoming Features
                 </h2>
-                <p className="text-gray-400 text-sm">Powerful tools coming to Volt</p>
+                <p className="text-gray-400 text-sm">Powerful tools coming to HALO</p>
               </div>
               
               <div className="space-y-4">
