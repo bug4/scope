@@ -19,7 +19,7 @@ const LandingPage: React.FC = () => {
           rel="noopener noreferrer"
           className="px-6 py-2 bg-purple-500 bg-opacity-20 text-purple-400 rounded-lg hover:bg-opacity-30 transition-all duration-300 flex items-center gap-2 border border-purple-500 border-opacity-20"
         >
-          Buy $$VOLTA
+          Buy $VOLTA
         </a>
         <a 
           href="https://x.com/VoltaTechAI" 
